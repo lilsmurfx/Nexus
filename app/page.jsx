@@ -12,11 +12,11 @@ import { FaXTwitter } from 'react-icons/fa6';
 const shows = [
   {
     title: 'Voice of the Soul',
-    image: '/images/shows/show8.JPG',
+    image: '/images/shows/show8.jpg',
   },
   {
     title: "Mumira's Mic Show",
-    image: '/images/shows/show9.JPG',
+    image: '/images/shows/show9.jpg',
   },
   {
     title: 'Swahili Vakili',
